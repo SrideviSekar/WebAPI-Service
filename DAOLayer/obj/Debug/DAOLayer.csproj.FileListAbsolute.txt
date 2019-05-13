@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\bin\Debug\DAOLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\bin\Debug\DAOLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\obj\Debug\DAOLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\obj\Debug\DAOLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\obj\Debug\DAOLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\obj\Debug\DAOLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\UserService\DAOLayer\obj\Debug\DAOLayer.csproj.CopyComplete
